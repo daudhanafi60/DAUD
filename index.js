@@ -76,9 +76,9 @@ const user = JSON.parse(fs.readFileSync('./src/user.json'))
 ban = []
 const vcard = 'BEGIN:VCARD\n' // JAN DI UBAH
             + 'VERSION:3.0\n' // JAN DI UBAH
-            + 'FN: OWNER GANS\n' // NAMA KONTAK OWNER
+            + 'FN: OWNER Daud Hanafi\n' // NAMA KONTAK OWNER
             + 'ORG:Creator ICHI;\n' // NAMA CREATOR
-            + 'TEL;type=CELL;type=VOICE;waid=628165466368:+62-816-5466-368\n' // NOMER HP LU
+            + 'TEL;type=CELL;type=VOICE;waid=6281216795577:+62-812-1679-5577\n' // NOMER HP LU
             + 'END:VCARD'
 prefix = '!'
 blocked = ['6289655478810@s.whatsapp.net']
