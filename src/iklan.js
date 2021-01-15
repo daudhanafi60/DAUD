@@ -7,7 +7,7 @@ const iklan = () => {
 ╠➥ *SEWA : 10K/GRUP (BULAN)*
 ╠➥ *BUAT : 35K (BISA JADI OWNER)*
 ╠➥ *PEMBAYARAN BISA MELALUI :*
-╠➥ *GOPAY, DANA, PULSA,TRAKTEER*
+╠➥ *GOPAY,PULSA*
 ╠═══════════════════════════
 ╠➥ *KEUNTUNGAN SEWA BOT :*
 ╠➥ *1. BISA MENJADI ADMIN Ichi*
@@ -21,9 +21,9 @@ const iklan = () => {
 ╠═══════════════════════════
 ╠➥ *JIKA MINAT IKLAN DIATAS*
 ╠➥ *HARAP HUBUNGI NOMOR DIBAWAH :*
-╠➥ *wa.me/628165466368*
+╠➥ *wa.me/6281216795577*
 ║
-╚═〘  ICHI BOT 〙
+╚═〘  Daud Hanafi 〙
 `
 }
 exports.iklan = iklan
