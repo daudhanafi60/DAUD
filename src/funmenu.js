@@ -1,6 +1,6 @@
 const funmenu = (prefix) => { 
 	return `
-✎═─⊱〘 𝐹𝑈𝑁 𝑀𝐸𝑁𝑈 〙⊰══
+✎═─⊱〘 Daud Hanafi 〙⊰══
 ║
 ╰─⊱ *${prefix}tebakgambar*
 ╰─⊱ *${prefix}caklontong*
