@@ -2,7 +2,7 @@
   "name": "DAUD",
   "version": "0.0.2",
   "description": "No comment",
-  "main": "index.js",
+  "main": "node index.js",
   "directories": {
     "lib": "lib"
   },
